@@ -3,3 +3,5 @@ This is a simple version of the popular Flappy Bird game, created using Python a
 
 ## Requirements
 To run this game, you need to have Python and the Pygame library installed.
+
+Enjoy the game!
